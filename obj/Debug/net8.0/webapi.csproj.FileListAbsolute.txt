@@ -17,6 +17,7 @@
 /home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/webapi.csproj.CoreCompileInputs.cache
 /home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/webapi.MvcApplicationPartsAssemblyInfo.cs
 /home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/webapi.MvcApplicationPartsAssemblyInfo.cache
+/home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/webapi.sourcelink.json
 /home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/staticwebassets.build.json
 /home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/staticwebassets.development.json
 /home/gu/Área de Trabalho/Develop/webapi/obj/Debug/net8.0/staticwebassets/msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
