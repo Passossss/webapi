@@ -16,7 +16,7 @@ else
     app.UseExceptionHandler("/Home/Error");
 }
 
-app.MapGet();
+//app.MapGet();
 
 app.UseHttpsRedirection();
 app.MapControllers(); // Mapeia os controladores da API
