@@ -1,0 +1,7 @@
+bin/
+Properties/
+*.props
+*.targets
+*.json
+*.csproj
+idea/
