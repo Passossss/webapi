@@ -1,5 +1,4 @@
 bin/
-Properties/
 *.props
 *.targets
 *.json
